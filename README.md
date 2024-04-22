@@ -1,5 +1,5 @@
 # for-me
-整理自己在前端工作上，常用的 mac 软件、VSCode 插件、前端工程风格
+整理自己在前端工作中，常用的 mac 软件、VSCode 插件、前端工程风格
 
 ## 快速安装前端环境
 1. [一键初始化前端环境 Shell 脚本](https://github.com/AnaniZhu/for-me/blob/main/setup.sh) 会自动安装下方含有 💡 标记的 app，还有初始化前端环境(VSCode, node, nvm, pnpm 等)
@@ -32,7 +32,7 @@
 3. [yapi](https://hellosean1025.github.io/yapi/) 老牌接口文档平台
 
 ### 数据库
-1. [navicat] 数据库 GUI 工具，方便好用，收费软件
+1. [navicat](https://navicat.com/en/) 数据库 GUI 工具，方便好用，收费软件
 
 ### 休闲
 1. 💡[Spotify](https://open.spotify.com/) 免费的音乐软件，拥有绝大部分歌曲的版权，仅少数冷门歌曲没有，唯一的缺点就是会有广告，需要科学上网
