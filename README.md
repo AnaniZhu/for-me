@@ -92,5 +92,5 @@
 ## 前端工程化
 
 ### 代码风格
-1. [ESLint 规则集]() 适用于 React + TS 项目
-2. [StyleLint 规则集](https://github.com/AnaniZhu/for-me/blob/main/.eslintrc.js) 适用于 Less 文件
+1. [ESLint 规则集](https://github.com/AnaniZhu/for-me/blob/main/.eslintrc.js) 适用于 React + TS 项目
+2. [StyleLint 规则集](https://github.com/AnaniZhu/for-me/blob/main/.stylelintrc.json) 适用于 Less 文件
