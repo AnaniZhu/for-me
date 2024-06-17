@@ -1,5 +1,5 @@
 {
-  "extends": ["stylelint-config-standard-less", "stylelint-config-recess-order"],
+  "extends": ["stylelint-config-standard-less", "stylelint-config-css-modules", "stylelint-config-recess-order"],
   "rules": {
     "selector-class-pattern": "[\\w-]+",
     "custom-property-empty-line-before": null,
